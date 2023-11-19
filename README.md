@@ -1,2 +1,3 @@
-# DataExtractionFromRawfiles
-There is 100 files that contain raw but useful data. We are cleaning data by extracting useful information like Names ,ID, Applications requirements and funding intended to. Make columns of these keywords and extract data using os and re library. Saving data by generating csv file at the end.
+# Data Cleaning and Structuring Project
+Led a comprehensive initiative involving the cleaning and structuring of data from 100 raw files. Leveraged Python's os and re libraries to meticulously extract crucial information such as Names, ID details, Application Requirements, and Funding Intended. Systematically organized the extracted data into well-defined columns. Implemented an efficient process to save the cleaned data by generating a CSV file, ensuring optimal accessibility and usability for subsequent analyses. This project underscores my proficiency in data manipulation, extraction, and organization, showcasing a meticulous approach to handling large datasets.
+
